@@ -35,8 +35,6 @@ public class App {
 
             } else System.out.print("Erro!");
 
-            boolean isDezMaiorQueVinte = 10 > 20;
-            System.out.println(isDezMaiorQueVinte);
         }
     }
 }
